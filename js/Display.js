@@ -9,7 +9,7 @@ class Display {
         this.valorAnterior = '';
         this.signos = {
             sumar: '+',
-            dividir: '%',
+            dividir: '/',
             multiplicar: 'x',
             restar: '-',
         }
